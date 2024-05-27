@@ -1,0 +1,311 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.window {
+  width: 834px;
+  height: 1194px;
+  background: rgba(9, 8, 8, 0.68);
+}
+.photo {
+  width: 204px;
+  height: 216px;
+  background: url("https://sun9-68.userapi.com/impg/5a0c4yAMQugUit4F83fmRL6bl6SPPTJjRysGmw/b8gqYBO76IE.jpg?size=1440x2160&quality=95&sign=97d07242af4bb312027818971e16633a&type=album");
+  background-size: cover;
+  position: absolute;
+  top: 33px;
+  left: 99px;
+}
+.ramk_photo {
+  width: 204px;
+  height: 216px;
+  position: absolute;
+  top: 33px;
+  left: 99px;
+  border: 5px solid rgba(0,102,255,1);
+}
+.lich {
+  width: 378px;
+  height: 372px;
+  position: absolute;
+  top: 33px;
+  left: 435px;
+  border: 5px solid rgba(0,102,255,1);
+}
+.ystu {
+  width: 378px;
+  height: 283px;
+  background: rgba(217,217,217,0);
+  opacity: 1;
+  position: absolute;
+  top: 428px;
+  left: 435px;
+  border: 5px solid rgba(0,102,255,1);
+  overflow: hidden;
+}
+.hobby {
+  width: 378px;
+  height: 238px;
+  position: absolute;
+  top: 734px;
+  left: 435px;
+  border: 5px solid rgba(0,102,255,1);
+}
+.comp_lang {
+  width: 378px;
+  height: 130px;
+  position: absolute;
+  top: 1007px;
+  left: 435px;
+  border: 5px solid rgba(0,102,255,1);
+}
+
+.cont {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 275px;
+  left: 41px;
+}
+.cont_ramk {
+  width: 324px;
+  height: 130px;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 5px solid rgba(0,102,255,1);
+}
+.tel {
+  width: 40px;
+  height: 40px;
+  background: url("https://cdn-icons-png.flaticon.com/512/159/159832.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 11px;
+  left: 12px;
+}
+.telegram {
+  width: 40px;
+  height: 40px;
+  background: url("https://cdn-icons-png.flaticon.com/512/87/87413.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 65px;
+  left: 12px;
+  border: 1px solid rgba(0,0,0,0);
+}
+.n_tel{
+  width: 250px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 17px;
+  left: 58px;
+  font-size: 25px;
+  text-align: left;
+}
+.n_telegram {
+  width: 250px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 71px;
+  left: 58px;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.lang {
+  width: 324px;
+  height: 130px;
+  position: absolute;
+  top: 428px;
+  left: 39px;
+}
+.ramk_lang {
+  width: 324px;
+  height: 130px;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border: 5px solid rgba(0,102,255,1);
+}
+.rus {
+  width: 157px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 25px;
+  left: 64px;
+  font-size: 25px;
+  text-align: left;
+}
+.eng {
+  width: 157px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 71px;
+  left: 64px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 25px;
+  text-align: left;
+}
+.n8 {
+  width: 40px;
+  height: 40px;
+  background: url("https://static-00.iconduck.com/assets.00/number-8-circle-icon-2048x2048-82b55vuw.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 19px;
+  left: 14px;
+  border: 1px solid rgba(0,0,0,0);
+}
+.n5 {
+  width: 40px;
+  height: 40px;
+  background: url("https://cdn.icon-icons.com/icons2/3303/PNG/512/number_five_icon_209057.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: absolute;
+  top: 65px;
+  left: 14px;
+  border: 1px solid rgba(0,0,0,0);
+}
+.napr {
+  width: 324px;
+  height: 226px;
+  opacity: 1;
+  position: absolute;
+  top: 581px;
+  left: 38px;
+  overflow: hidden;
+}
+.rnapr {
+  width: 324px;
+  height: 226px;
+  background: rgba(217,217,217,0);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 5px solid rgba(0,102,255,1);
+}
+.tnapr {
+  width: 298px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 16px;
+  left: 13px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.prof {
+  width: 324px;
+  height: 141px;
+  position: absolute;
+  top: 842px;
+  left: 39px;
+}
+.rprof {
+  width: 324px;
+  height: 141px;
+  background: rgba(217,217,217,0);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 5px solid rgba(0,102,255,1);
+}
+.tpr {
+  width: 304px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 9px;
+  left: 6px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.int {
+  width: 324px;
+  height: 130px;
+  position: absolute;
+  top: 1007px;
+  left: 39px;
+  overflow: hidden;
+}
+.rint {
+  width: 324px;
+  height: 130px;
+  background: rgba(217,217,217,0);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border: 5px solid rgba(0,102,255,1);
+}
+.tint {
+  width: 236px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+.oseb {
+  width: 348px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 41px;
+  left: 450px;
+  font-size: 25px;
+  text-align: left;
+}
+.tystu {
+  width: 348px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 439px;
+  left: 450px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
+
+.uvl {
+  width: 356px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 741px;
+  left: 442px;
+  font-size: 25px;
+  text-align: left;
+}
+.tcomp {
+  width: 356px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 1013px;
+  left: 442px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 25px;
+  opacity: 1;
+  text-align: left;
+}
